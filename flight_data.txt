@@ -1,0 +1,6 @@
+From_City	From_Country	From_IATA	To_City	To_Country	To_IATA	Max_Transfer	Max_Price
+Frankfurt	Germany	FRA	Baku	Azerbaijan	BAK	2	200
+Frankfurt	Germany	FRA	Yerevan	Armenia	EVN	2	80
+Frankfurt	Germany	FRA	Tokyo	Japan	TYO	2	100
+Amsterdam	Netherlands	AMS	Accra	Ghana	ACC	2	350
+Frankfurt	Germany	FRA	Accra	Ghana	ACC	2	350
